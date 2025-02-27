@@ -1,4 +1,4 @@
 [build]
-  builder = "Docker"
-  context = "ApiDoTio"
-  dockerfile = "ApiDoTio/Dockerfile"
+type = "docker"
+dockerfile = "./ApiDoTio/Dockerfile"
+context = "./ApiDoTio"
