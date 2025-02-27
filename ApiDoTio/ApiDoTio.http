@@ -1,6 +1,0 @@
-@ApiDoTio_HostAddress = http://localhost:5205
-
-GET {{ApiDoTio_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
